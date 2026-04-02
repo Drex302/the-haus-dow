@@ -1,0 +1,7 @@
+{
+  "name": "the-haus-dow",
+  "private": true,
+  "dependencies": {
+    "stripe": "^17.4.0"
+  }
+}
